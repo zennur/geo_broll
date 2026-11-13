@@ -1,0 +1,31 @@
+.venv/
+venv/
+out/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.DS_Store
+.idea/
+.vscode/
+
+# Renders, footage, audio, and generated stills (keep the repo source-only)
+*.mp4
+*.mov
+*.MOV
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.aac
+*.jpg
+*.jpeg
+*.png
+*.webp
+!icons/README.md
+
+# On-demand Simple Icons cache
+icons/*.svg
+icons/*.png

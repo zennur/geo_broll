@@ -1,0 +1,6 @@
+faster-whisper>=1.1
+pillow>=10.0
+numpy>=1.26
+# optional, used by logos.py to rasterize Simple Icons SVGs (CC0)
+cairosvg>=2.7
+cairocffi>=1.6
